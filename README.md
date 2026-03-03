@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm Quentin.</h3>
 
 <p align="center">
-  <a href="TBA">Blog</a> •
+  <a href="https://qcole22.github.io/">Blog</a> •
   <a href="https://www.linkedin.com/in/quentin-rusnell/">LinkedIn</a>
 </p>
 
