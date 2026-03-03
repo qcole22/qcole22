@@ -16,7 +16,7 @@
 - Tools: Git, Bash, YAML
 
 ## Contributing
-Contributions, issues, and suggestions are welcome. Open a PR or create an issue with context and reproduction steps.
+Contributions, issues, and suggestions are welcome. Open a PR or create an issue with context <3
 
 ## Contact
 Email: qcole2257@gmail.com
