@@ -1,8 +1,13 @@
-# Quentin — DevOps Projects
+<h3 align="center">👋 Hello! I'm Quentin.</h3>
 
-A focused collection of personal projects showcasing practical DevOps work: CI/CD pipelines, infrastructure as code, containerization, and orchestration. Clear, repeatable patterns and documentation for deployment and automation.
+<p align="center">
+  <a href="TBA">Blog</a> •
+  <a href="https://www.linkedin.com/in/quentin-rusnell/">LinkedIn</a>
+</p>
 
-## Skills
+---
+
+#### Skills
 - Cloud: AWS, Azure (learning and applied)
 - Containerization: Docker
 - Orchestration: Kubernetes
@@ -29,4 +34,4 @@ A focused collection of personal projects showcasing practical DevOps work: CI/C
 Contributions, issues, and suggestions are welcome. Open a PR or create an issue with context and reproduction steps.
 
 ## Contact
-GitHub: https://github.com/qcole22
+Email: qcole2257@gmail.com
