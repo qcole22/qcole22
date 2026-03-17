@@ -4,13 +4,12 @@
   <a href="https://qcole22.github.io/">Blog</a> •
   <a href="https://www.linkedin.com/in/quentin-rusnell/">LinkedIn</a>
 </p>
-
+#Amature Information Service Technician
 ---
 
 #### Skills
 - Cloud: AWS, Azure
 - Containerization: Docker
-- Orchestration: Kubernetes
 - Infrastructure as Code: Terraform
 - CI/CD: Pipeline design and implementation
 - Tools: Git, Bash, YAML
