@@ -1,10 +1,10 @@
-<h3 align="center">👋 Hello! I'm Quentin.</h3>
-
+<h3 align="center">👋 Hello! I'm Quentin </h3>
+<h4 align="center"> Amateur Information Service Technician </h3>
 <p align="center">
   <a href="https://qcole22.github.io/">Blog</a> •
   <a href="https://www.linkedin.com/in/quentin-rusnell/">LinkedIn</a>
 </p>
-#Amature Information Service Technician
+
 ---
 
 #### Skills
